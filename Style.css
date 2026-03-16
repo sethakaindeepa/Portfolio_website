@@ -71,3 +71,8 @@ nav a:hover{
     line-height: 1.6;
     margin-bottom: 40px;
 }
+
+.buttons{
+    display: flex;
+    gap: 20px;
+}
