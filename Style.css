@@ -19,7 +19,7 @@ body{
 }
 
 .logo {
-    font-size: 28px;
+    font-size: 64px;
     font-style: italic;
     color:#7fe3ff;
 }
@@ -32,7 +32,7 @@ nav a {
     margin-left: 35px;
     text-decoration: none;
     color: white;
-    font-size: 18px;
+    font-size: 20px;
     transition: 0.3s;
 }
 
@@ -46,4 +46,9 @@ nav a:hover{
     justify-content: space-between;
     padding: 80px;
     height: 85vh;
+}
+
+.hero-text h1{
+    font-size: 64px;
+    margin-bottom: 10px;
 }
