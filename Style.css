@@ -23,3 +23,7 @@ body{
     font-style: italic;
     color:#7fe3ff;
 }
+
+.logo span {
+    color: white;
+}
