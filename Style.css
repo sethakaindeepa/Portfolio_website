@@ -17,3 +17,9 @@ body{
     align-items: center;
     padding: 25px 80px;
 }
+
+.logo {
+    font-size: 28px;
+    font-style: italic;
+    color:#7fe3ff;
+}
