@@ -63,3 +63,11 @@ nav a:hover{
     margin: 20px 0;
     font-weight: 500;
 }
+
+
+.hero-text p{
+    max-width: 500px;
+    color: #FFFFFF;
+    line-height: 1.6;
+    margin-bottom: 40px;
+}
