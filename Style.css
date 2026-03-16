@@ -27,3 +27,11 @@ body{
 .logo span {
     color: white;
 }
+
+nav a {
+    margin-left: 35px;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    transition: 0.3s;
+}
