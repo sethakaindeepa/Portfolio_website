@@ -56,3 +56,10 @@ nav a:hover{
 .hero-text h2 span{
     color: #00A8F1;
 }
+
+
+.hero-text h3{
+    font-size: 28px;
+    margin: 20px 0;
+    font-weight: 500;
+}
