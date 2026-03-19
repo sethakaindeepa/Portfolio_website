@@ -7,7 +7,7 @@
 
 body{
     height: 100vh;
-    background: linear-gradient(120deg,#3b2a9f,#0d6ea8);
+    background: radial-gradient(#055F86 0%, #2A2B7B 100%);
     color: white;
 }
 
@@ -19,13 +19,20 @@ body{
 }
 
 .logo {
-    font-size: 64px;
+    font-size: 70px;
     font-style: italic;
+    font-family: "Island Moments", cursive;
+    font-weight: 400;
+    letter-spacing: 1px;
     color:#7fe3ff;
 }
 
 .logo span {
     color: white;
+    font-size: 70px;
+    font-style: italic;
+    font-family: "Island Moments", cursive;
+    font-weight: 400;
 }
 
 nav a {
@@ -51,17 +58,21 @@ nav a:hover{
 .hero-text h1{
     font-size: 64px;
     margin-bottom: 10px;
+    font-family: Raleway,sans-serif;
 }
 
-.hero-text h2 span{
+.hero-text h1 span{
     color: #00A8F1;
+    font-style: italic;
+
 }
 
 
 .hero-text h3{
     font-size: 28px;
     margin: 20px 0;
-    font-weight: 500;
+    font-weight: normal;
+    font-family: Raleway, serif;
 }
 
 
@@ -70,6 +81,8 @@ nav a:hover{
     color: #FFFFFF;
     line-height: 1.6;
     margin-bottom: 40px;
+    font-family: Raleway, serif;
+    font-weight: lighter;
 }
 
 .buttons{
@@ -82,19 +95,31 @@ nav a:hover{
     border-radius: 16px;
     text-decoration: none;
     font-size: 20px;
-    font-weight: 600;
+    font-weight: bold;
+    font-family: Raleway, sans-serif;
+
 }
 
 .hire{
     background: #00A8F1;
     color: black;
+    box-shadow: 0px 0px 34px 0px #00A8F1;
 }
 
 .cv{
     background: #FFFFFF;
     color: #00A8F1;
+    box-shadow: 0px 0px 5px 2px #000000;
+}
+
+.hero-image {
+    width: 40%;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 0;
 }
 
 .hero-image img{
-    width: 420px;
+    width: 380px;
+    height: auto;
 }
