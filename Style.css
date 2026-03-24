@@ -157,3 +157,13 @@ nav a:hover{
     min-height: 400px;
 }
 
+.edu-card{
+    width: 280px;
+    background: linear-gradient(145deg,#1fc0ff,#0a8fd8);
+    padding: 20px;
+    border-radius: 18px;
+    color: white;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+    position: absolute;
+}
+
