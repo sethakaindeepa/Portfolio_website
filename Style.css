@@ -139,3 +139,12 @@ nav a:hover{
     width: 85%;
     margin: auto;
 }
+
+.section-title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    color: #FFFFFF;
+    margin-bottom: 60px;
+}
+
