@@ -142,7 +142,7 @@ nav a:hover{
 
 .section-title{
     text-align: center;
-    font-size: 40px;
+    font-size: 64px;
     font-weight: 700;
     color: #FFFFFF;
     margin-bottom: 60px;
@@ -159,6 +159,7 @@ nav a:hover{
 
 .edu-card{
     width: 280px;
+    min-height: 140px;
     background: linear-gradient(145deg,#1fc0ff,#0a8fd8);
     padding: 20px;
     border-radius: 18px;
@@ -177,3 +178,19 @@ nav a:hover{
     line-height: 1.5;
 }
 
+.edu-card.left{
+    left: 15%;
+    top: 40px;
+}
+
+.edu-card.right{
+    right: 15%;
+    top: 200px;
+
+}
+
+.edu-card.bottom{
+    left: 15%;
+    top: 340px;
+
+}
