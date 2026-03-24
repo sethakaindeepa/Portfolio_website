@@ -134,3 +134,8 @@ nav a:hover{
     position: relative;
     overflow: hidden;
 }
+
+.container{
+    width: 85%;
+    margin: auto;
+}
