@@ -128,3 +128,9 @@ nav a:hover{
     object-fit: contain;
 }
 
+.education{
+    background: #172443;
+    padding: 100px 0;
+    position: relative;
+    overflow: hidden;
+}
