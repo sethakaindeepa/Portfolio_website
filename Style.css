@@ -152,3 +152,8 @@ nav a:hover{
     color: #00A8F1;
 }
 
+.education-wrapper{
+    position: relative;
+    min-height: 400px;
+}
+
