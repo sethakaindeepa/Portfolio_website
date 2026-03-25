@@ -130,7 +130,7 @@ nav a:hover{
 
 .education{
     background: #172443;
-    padding: 100px 0;
+    padding: 40px 0;
     position: relative;
     overflow: hidden;
 }
@@ -145,7 +145,8 @@ nav a:hover{
     font-size: 64px;
     font-weight: 700;
     color: #FFFFFF;
-    margin-bottom: 60px;
+    margin: 0px 60px 60px 40px;
+
 }
 
 .section-title span {
@@ -164,7 +165,7 @@ nav a:hover{
     padding: 20px;
     border-radius: 18px;
     color: white;
-    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+    box-shadow: 0 5px 20px rgb(0, 168, 241);
     position: absolute;
 }
 
@@ -180,17 +181,21 @@ nav a:hover{
 
 .edu-card.left{
     left: 15%;
-    top: 40px;
+    top: 0px;
 }
 
 .edu-card.right{
     right: 15%;
-    top: 200px;
+    top: 140px;
 
 }
 
 .edu-card.bottom{
     left: 15%;
-    top: 340px;
+    top: 280px;
 
+}
+
+html{
+    scroll-behavior: smooth;
 }
