@@ -187,6 +187,50 @@ nav a:hover{
     }
 }
 
+@media all and (max-width: 768px){
+
+    .navbar{
+        padding: 15px 20px;
+    }
+
+    .logo{
+        font-size: 32px;
+    }
+
+    nav{
+        display: none;
+    }
+
+    .hero{
+        padding: 20px;
+    }
+
+    .hero-text h1{
+        font-size: 34px;
+    }
+
+    .hero-text h3{
+        font-size: 18px;
+    }
+
+    .hero-text p {
+        font-size: 14px;
+    }
+
+    .buttons{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .btn{
+        font-size: 14px;
+        padding: 12px 25px;
+    }
+
+    .hero-image img{
+        width: 220px;
+    }
+}
 
 
 
