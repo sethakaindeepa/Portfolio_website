@@ -218,6 +218,15 @@ nav a:hover{
     gap: 30px;
     flex-wrap: wrap;
 }
+
+.hobby-card{
+    background: #3F4765;
+    border-radius: 30px;
+    width: 300px;
+    overflow: hidden;
+    transition: 0.3s ease;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
 html{
     scroll-behavior: smooth;
 }
