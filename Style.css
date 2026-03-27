@@ -128,6 +128,68 @@ nav a:hover{
     object-fit: contain;
 }
 
+@media all and (max-width: 1024px) {
+
+    .navbar{
+        padding: 20px 40px;
+    }
+
+    .logo{
+        font-size: 42px;
+    }
+
+    .logo span{
+        font-size: 42px;
+    }
+
+    nav a {
+        font-size: 16px;
+        margin-left: 20px;
+    }
+
+    .hero {
+        flex-direction: column;
+        text-align: center;
+        padding: 40px;
+        min-height: auto;
+    }
+
+    .hero-text h1{
+        font-size: 48px;
+    }
+
+    .hero-text h1 span{
+        font-size: 48px;
+    }
+
+    .hero-text h3 {
+        font-size: 22px;
+    }
+
+    .hero-text p {
+        font-size: 16px;
+        margin: auto auto 30px;
+    }
+
+    .buttons{
+        justify-content: center;
+    }
+
+    .hero-image  {
+        width: 100%;
+        justify-content: center;
+        margin-top: 30px;
+    }
+
+    .hero-image img{
+        width: 300px;
+        max-height: none;
+    }
+}
+
+
+
+
 .education{
     background: #172443;
     padding: 40px 0;
