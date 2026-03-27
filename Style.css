@@ -211,6 +211,13 @@ nav a:hover{
 .hobbies h1 span {
     color: #00A8F1;
 }
+
+.hobbies-container{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
 html{
     scroll-behavior: smooth;
 }
