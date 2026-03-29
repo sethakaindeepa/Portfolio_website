@@ -493,4 +493,9 @@ nav a:hover{
     box-shadow: 0 0 25px rgba(0,168,241,0.6);
 }
 
+.service-card h3{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
 
