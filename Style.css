@@ -407,6 +407,10 @@ nav a:hover{
     .hobbies-container{
         gap: 25px;
     }
+
+    .hobby-card{
+        width: 45%;
+    }
 }
 
 
