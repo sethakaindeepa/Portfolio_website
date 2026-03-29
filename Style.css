@@ -418,6 +418,10 @@ nav a:hover{
     .hobbies{
         padding: 50px 5%;
     }
+
+    .hobbies h1{
+        font-size: 32px;
+    }
 }
 
 
