@@ -317,6 +317,10 @@ nav a:hover{
     width: 60%;
 }
 
+.section-title{
+    font-size: 48px;
+    margin: 40px 0;
+}
 }
 .hobbies{
     background-color: #1E2A47;
