@@ -308,23 +308,23 @@ nav a:hover{
 
 @media all and (max-width: 1024px){
 
-.education-wrapper{
+    .education-wrapper{
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 30px;
     min-height: auto;
-}
+    }
 
-.edu-card{
+    .edu-card{
     position: static;
     width: 60%;
-}
+    }
 
-.section-title{
+    .section-title{
     font-size: 48px;
     margin: 40px 0;
-}
+    }
 
 }
 
@@ -427,6 +427,11 @@ nav a:hover{
         flex-direction: column;
         align-items: center;
         gap: 20px;
+    }
+
+    .hobby-card{
+        width: 100%;
+        max-width: 350px;
     }
 }
 
