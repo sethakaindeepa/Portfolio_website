@@ -433,6 +433,10 @@ nav a:hover{
         width: 100%;
         max-width: 350px;
     }
+
+    .hobby-card img{
+        height: 160px;
+    }
 }
 
 
