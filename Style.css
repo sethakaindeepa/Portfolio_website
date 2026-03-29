@@ -443,10 +443,18 @@ nav a:hover{
     }
 }
 
+
+
 .services{
     background: #111D38;
     padding: 80px 10%;
     text-align: center;
+}
+
+.services h1{
+    font-size: 64px;
+    color: white;
+    margin-bottom: 40px;
 }
 
 
