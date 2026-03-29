@@ -5,6 +5,10 @@
     font-family: Segoe UI, sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 body{
     height: 100vh;
     background: #0F172A;
@@ -389,10 +393,11 @@ nav a:hover{
 }
 
 @media all and (max-width: 1024px) {
-    
+
+    .hobbies{
+        padding: 60px 6%;
+    }
 }
 
-html{
-    scroll-behavior: smooth;
-}
+
 
