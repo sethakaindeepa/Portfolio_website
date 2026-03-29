@@ -437,6 +437,10 @@ nav a:hover{
     .hobby-card img{
         height: 160px;
     }
+
+    .hobby-card p{
+        font-size: 13px;
+    }
 }
 
 
