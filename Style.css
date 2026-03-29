@@ -302,6 +302,10 @@ nav a:hover{
 
 }
 
+@media all and (max-width: 1024px){
+
+
+}
 .hobbies{
     background-color: #1E2A47;
     padding: 80px 10%;
