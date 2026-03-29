@@ -477,4 +477,11 @@ nav a:hover{
     font-weight: 600;
 }
 
+.services-container{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    flex-wrap: wrap;
+}
+
 
