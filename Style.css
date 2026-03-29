@@ -403,6 +403,10 @@ nav a:hover{
     .hobbies h1{
         font-size: 48px;
     }
+
+    .hobbies-container{
+        gap: 25px;
+    }
 }
 
 
