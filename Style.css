@@ -469,5 +469,12 @@ nav a:hover{
     flex-wrap: wrap;
 }
 
+.tech-stack span{
+    background: #00A8F1;
+    color: white;
+    padding: 12px 30px;
+    border-radius: 20px;
+    font-weight: 600;
+}
 
 
