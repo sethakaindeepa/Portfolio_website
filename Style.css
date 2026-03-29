@@ -504,5 +504,16 @@ nav a:hover{
     margin-bottom: 30px;
 }
 
+.read-btn{
+    display: inline-block;
+    background: #00A8F1;
+    color: black;
+    padding: 12px 30px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 600;
+    box-shadow: 0 0 15px rgba(0,168,241,0.7);
+    transition: 0.3s;
+}
 
 
