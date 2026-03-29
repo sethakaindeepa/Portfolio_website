@@ -322,10 +322,16 @@ nav a:hover{
     margin: 40px 0;
 }
 
+}
+
 @media all and (max-width: 768px) {
-    
+
+    .edu-card{
+        width: 100%;
+    }
+
 }
-}
+
 .hobbies{
     background-color: #1E2A47;
     padding: 80px 10%;
