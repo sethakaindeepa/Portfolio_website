@@ -516,4 +516,8 @@ nav a:hover{
     transition: 0.3s;
 }
 
+.read-btn:hover{
+    transform: translateY(-3px);
+}
+
 
