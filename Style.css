@@ -414,7 +414,10 @@ nav a:hover{
 }
 
 @media all and (max-width: 768px) {
-    
+
+    .hobbies{
+        padding: 50px 5%;
+    }
 }
 
 
