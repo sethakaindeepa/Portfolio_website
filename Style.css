@@ -461,5 +461,13 @@ nav a:hover{
     color: #00A8F1;
 }
 
+.tech-stack{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 60px;
+    flex-wrap: wrap;
+}
+
 
 
