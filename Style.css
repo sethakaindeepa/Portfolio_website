@@ -321,6 +321,10 @@ nav a:hover{
     font-size: 48px;
     margin: 40px 0;
 }
+
+@media all and (max-width: 768px) {
+    
+}
 }
 .hobbies{
     background-color: #1E2A47;
