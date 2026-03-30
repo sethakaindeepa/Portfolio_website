@@ -470,10 +470,11 @@ nav a:hover{
     overflow: hidden;
 
     animation:slideTech 15s linear infinite ;
-
+    animation-direction: alternate;
 
 
 }
+
 
 .tech-stack span{
     background: #00A8F1;
