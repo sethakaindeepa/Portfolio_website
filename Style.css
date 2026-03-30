@@ -392,6 +392,7 @@ nav a:hover{
     padding: 25px 20px 30px;
     font-size: 14px;
     line-height: 1.5;
+    font-family: Inter, serif;
 }
 
 @media all and (max-width: 1024px) {
@@ -469,7 +470,7 @@ nav a:hover{
     flex-wrap: nowrap;
     overflow: hidden;
 
-    animation:slideTech 15s linear infinite ;
+    animation:slideTech 25s linear infinite ;
     animation-direction: alternate;
 
 
@@ -507,6 +508,7 @@ nav a:hover{
     border-radius: 30px;
     color: white;
     box-shadow: 0 0 25px rgba(0,168,241,0.6);
+
 }
 
 .service-card h3{
@@ -518,7 +520,7 @@ nav a:hover{
     font-size: 14px;
     line-height: 1.6;
     margin-bottom: 30px;
-
+    font-family: Inter, serif;
 }
 
 .read-btn{
