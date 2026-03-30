@@ -608,5 +608,9 @@ nav a:hover{
     .service-card h3{
         font-size: 20px;
     }
+
+    .service-card p{
+        font-size: 13px;
+    }
 }
 
