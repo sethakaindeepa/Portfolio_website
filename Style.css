@@ -555,5 +555,12 @@ nav a:hover{
         justify-content: center;
         gap: 20px;
     }
+
+    .tech-stack span{
+        padding: 10px 22px;
+        font-size: 14px;
+    }
+
+
 }
 
