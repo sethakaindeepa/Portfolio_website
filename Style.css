@@ -592,5 +592,11 @@ nav a:hover{
         font-size: 12px;
         padding: 8px 18px;
     }
+
+    .services-container{
+        flex-direction: column;
+        align-items: center;
+        gap: 25px;
+    }
 }
 
