@@ -587,5 +587,10 @@ nav a:hover{
         gap: 15px;
         animation: none;
     }
+
+    .tech-stack span{
+        font-size: 12px;
+        padding: 8px 18px;
+    }
 }
 
