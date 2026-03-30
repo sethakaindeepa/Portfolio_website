@@ -475,6 +475,15 @@ nav a:hover{
 
 }
 
+@keyframes slideTech {
+    0%{
+        transform: translateX(0);
+    }
+
+    100%{
+        transform: translateX(-50%);
+    }
+}
 
 .tech-stack span{
     background: #00A8F1;
