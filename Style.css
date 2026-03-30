@@ -580,5 +580,12 @@ nav a:hover{
     .services h1{
         font-size: 32px;
     }
+
+    .tech-stack{
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+        animation: none;
+    }
 }
 
