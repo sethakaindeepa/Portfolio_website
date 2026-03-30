@@ -604,5 +604,9 @@ nav a:hover{
         max-width: 350px;
         padding: 30px 20px;
     }
+
+    .service-card h3{
+        font-size: 20px;
+    }
 }
 
