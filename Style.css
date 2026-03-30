@@ -598,5 +598,11 @@ nav a:hover{
         align-items: center;
         gap: 25px;
     }
+
+    .service-card{
+        width: 100%;
+        max-width: 350px;
+        padding: 30px 20px;
+    }
 }
 
