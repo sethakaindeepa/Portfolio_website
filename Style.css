@@ -551,6 +551,9 @@ nav a:hover{
         font-size: 48px;
     }
 
-
+    .tech-stack{
+        justify-content: center;
+        gap: 20px;
+    }
 }
 
