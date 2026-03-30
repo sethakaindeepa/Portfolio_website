@@ -561,6 +561,8 @@ nav a:hover{
         font-size: 14px;
     }
 
-
+    .services-container{
+        gap: 40px;
+    }
 }
 
