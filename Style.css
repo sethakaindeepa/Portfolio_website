@@ -542,6 +542,9 @@ nav a:hover{
 }
 
 @media all and (max-width: 1024px) {
-    
+
+    .services{
+        padding: 60px 6%;
+    }
 }
 
