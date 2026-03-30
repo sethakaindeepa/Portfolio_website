@@ -552,7 +552,7 @@ nav a:hover{
     }
 
     .tech-stack{
-        justify-content: center;
+        justify-content: space-between;
         gap: 20px;
     }
 
@@ -564,5 +564,14 @@ nav a:hover{
     .services-container{
         gap: 40px;
     }
+
+    .service-card{
+        width: 45%;
+        padding: 30px 25px;
+    }
+}
+
+@media all and max-width: 768px {
+    
 }
 
