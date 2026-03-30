@@ -576,5 +576,9 @@ nav a:hover{
     .services{
         padding: 50px 5%;
     }
+
+    .services h1{
+        font-size: 32px;
+    }
 }
 
