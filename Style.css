@@ -640,6 +640,11 @@ nav a:hover{
     justify-content: space-between;
     align-items: center;
     gap: 30px;
-    transition: 0.3s;
+    transition: 0.5s ease;
+}
+
+.exercise-card:hover {
+    border-color: #00A8F1;
+    transform: scale(1.02);
 }
 
