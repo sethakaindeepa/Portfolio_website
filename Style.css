@@ -624,3 +624,10 @@ nav a:hover{
     min-height: 100vh;
 }
 
+.exercises h1{
+    text-align: center;
+    color: white;
+    font-size: 64px;
+    margin-bottom: 50px;
+}
+
