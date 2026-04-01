@@ -626,7 +626,7 @@ nav a:hover{
 
 .exercises h1{
     text-align: center;
-    color: white;
+    color: #00A8F1;
     font-size: 64px;
     margin-bottom: 50px;
 }
@@ -644,7 +644,7 @@ nav a:hover{
 }
 
 .exercise-card:hover {
-    border-color: #00A8F1;
+    border:5px solid #00A8F1;
     transform: scale(1.02);
 }
 
@@ -657,4 +657,47 @@ nav a:hover{
     color :white;
     line-height: 1.6;
     max-width: 700px;
+    font-family: Inter, serif;
+}
+
+.exercise-btn{
+    background: #00A8F1;
+    border: none;
+    padding: 12px 28px;
+    border-radius: 30px;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 0 15px rgba(0,168,241,0.7);
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.exercise-btn:hover{
+    transform: translateY(-3px);
+}
+
+@media all and (max-width: 1024px){
+
+    .exercises{
+        padding: 70px 8%;
+    }
+
+    .exercises h1{
+        font-size: 40px;
+    }
+
+    .exercise-card {
+        padding: 25px 30px;
+        gap: 20px;
+    }
+
+    .exercise-content p{
+        max-width: 100%;
+        font-size: 15px;
+    }
+
+    .exercise-btn{
+        padding: 10px 24px;
+    }
 }
