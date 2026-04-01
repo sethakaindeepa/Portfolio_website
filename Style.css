@@ -616,3 +616,11 @@ nav a:hover{
     }
 }
 
+
+
+.exercises{
+    background-color: #263559;
+    padding: 80px 10%;
+    min-height: 100vh;
+}
+
