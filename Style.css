@@ -631,3 +631,15 @@ nav a:hover{
     margin-bottom: 50px;
 }
 
+.exercise-card {
+    background: #3F4765;
+    padding: 30px 40px;
+    border-radius: 25px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    transition: 0.3s;
+}
+
