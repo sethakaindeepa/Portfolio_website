@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55cbf72e-bc1d-4b93-b877-160323f4ba3b" name="Changes" comment="" />
+    <list default="true" id="55cbf72e-bc1d-4b93-b877-160323f4ba3b" name="Changes" comment="Add HTML to CSS Exercises case 03" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,11 +93,24 @@
       <workItem from="1775098660601" duration="3281000" />
       <workItem from="1775111978103" duration="9000" />
       <workItem from="1775285916692" duration="4581000" />
-      <workItem from="1775370209766" duration="3612000" />
+      <workItem from="1775370209766" duration="3927000" />
     </task>
+    <task id="LOCAL-00001" summary="Add HTML to CSS Exercises case 03">
+      <option name="closed" value="true" />
+      <created>1775375101699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775375101699</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add HTML to CSS Exercises case 03" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add HTML to CSS Exercises case 03" />
   </component>
 </project>
