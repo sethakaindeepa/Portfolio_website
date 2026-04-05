@@ -72,3 +72,33 @@ body{
     text-decoration: none;
 }
 
+
+.case-button:hover{
+    transform: translateY(-3px);
+}
+
+@media (max-width: 1024px) {
+
+    .case{
+        width: 90%;
+    }
+
+    .case-content{
+        padding: 30px;
+        gap: 20px;
+    }
+
+    .case-content img{
+        width: 100%;
+        max-width: 500px;
+    }
+
+    .case-card{
+        width: 100%;
+        border-radius: 25px;
+    }
+
+    .case-card p{
+        padding-right: 90px;
+    }
+}

@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55cbf72e-bc1d-4b93-b877-160323f4ba3b" name="Changes" comment="Add CSS to case content">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="55cbf72e-bc1d-4b93-b877-160323f4ba3b" name="Changes" comment="Add Changes to CSS Exercises 1">
       <change beforePath="$PROJECT_DIR$/Style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises1.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercises1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +107,7 @@
       <workItem from="1775098660601" duration="3281000" />
       <workItem from="1775111978103" duration="9000" />
       <workItem from="1775285916692" duration="4581000" />
-      <workItem from="1775370209766" duration="11106000" />
+      <workItem from="1775370209766" duration="13698000" />
     </task>
     <task id="LOCAL-00001" summary="Add HTML to CSS Exercises case 03">
       <option name="closed" value="true" />
@@ -152,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775377326109</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add Changes to CSS Exercises 1">
+      <option name="closed" value="true" />
+      <created>1775385623023</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1775385623023</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +169,7 @@
     <MESSAGE value="CSS to whole CSS Exercises 1" />
     <MESSAGE value="Add CSS to cases" />
     <MESSAGE value="Add CSS to case content" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add CSS to case content" />
+    <MESSAGE value="Add Changes to CSS Exercises 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Changes to CSS Exercises 1" />
   </component>
 </project>
