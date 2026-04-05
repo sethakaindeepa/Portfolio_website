@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55cbf72e-bc1d-4b93-b877-160323f4ba3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/CSS Exercises 1 case 01.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/CSS Exercises 1 case 02.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/CSS Exercises 1 case 03.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/CSS Exercises 1 case 04.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/CSS Exercises 1 case 05.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/CSS Exercises 1 case 06.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercises1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -91,7 +99,11 @@
       <workItem from="1774756686458" duration="19184000" />
       <workItem from="1774841970111" duration="12532000" />
       <workItem from="1774925433030" duration="11808000" />
-      <workItem from="1775014918425" duration="1350000" />
+      <workItem from="1775014918425" duration="14219000" />
+      <workItem from="1775098660601" duration="3281000" />
+      <workItem from="1775111978103" duration="9000" />
+      <workItem from="1775285916692" duration="4581000" />
+      <workItem from="1775370209766" duration="2312000" />
     </task>
     <servers />
   </component>
