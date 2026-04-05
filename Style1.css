@@ -16,3 +16,38 @@ body{
     border-radius: 30px;
     overflow: hidden;
 }
+
+.case-title{
+    background: #00A8F1;
+    color: white;
+    padding: 15px 20px;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.case-content{
+    padding: 40px;
+    text-align: center;
+}
+
+.case-content img{
+    width: 350px;
+    margin-bottom: 25px;
+}
+
+.case-card{
+    background: #3F4765;
+    padding: 20px;
+    border-radius: 30px;
+    color: white;
+    width: 70%;
+    margin: 0 auto;
+    text-align: left;
+    position: relative;
+}
+
+.case-card p{
+    font-size: 14px;
+    line-height: 1.6;
+    padding-right: 100px;
+}
