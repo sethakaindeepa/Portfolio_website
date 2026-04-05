@@ -5,3 +5,14 @@
     font-family: Inter, serif;
 }
 
+body{
+    background: #1D2E57;
+}
+
+.case{
+    width: 80%;
+    margin: 40px auto;
+    background: #3F4765;
+    border-radius: 30px;
+    overflow: hidden;
+}
