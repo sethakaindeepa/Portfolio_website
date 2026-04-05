@@ -12,27 +12,33 @@ body{
 .case{
     width: 80%;
     margin: 40px auto;
-    background: #3F4765;
-    border-radius: 30px;
     overflow: hidden;
+
+
 }
 
 .case-title{
     background: #00A8F1;
     color: white;
-    padding: 15px 20px;
+    padding: 15px 40px;
     font-size: 22px;
     font-weight: bold;
+
 }
 
 .case-content{
     padding: 40px;
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 25px;
 }
 
 .case-content img{
     width: 350px;
-    margin-bottom: 25px;
+
+
+
 }
 
 .case-card{
@@ -41,7 +47,7 @@ body{
     border-radius: 30px;
     color: white;
     width: 70%;
-    margin: 0 auto;
+    margin: 0 0;
     text-align: left;
     position: relative;
 }
@@ -51,3 +57,18 @@ body{
     line-height: 1.6;
     padding-right: 100px;
 }
+
+.case-button{
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    background: #00A8F1;
+    color: black;
+    font-weight: bold;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
