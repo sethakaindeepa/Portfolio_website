@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55cbf72e-bc1d-4b93-b877-160323f4ba3b" name="Changes" comment="Add responsive CSS Exercises 1 on mobile">
+    <list default="true" id="55cbf72e-bc1d-4b93-b877-160323f4ba3b" name="Changes" comment="Add videos instead images">
+      <change afterPath="$PROJECT_DIR$/exercises2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises1.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercises1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/CSS Exercises 1 case 02.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/CSS Exercises 1 case 03.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/CSS Exercises 1 case 04.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -110,7 +113,7 @@
       <workItem from="1775111978103" duration="9000" />
       <workItem from="1775285916692" duration="4581000" />
       <workItem from="1775370209766" duration="16051000" />
-      <workItem from="1775456924357" duration="4429000" />
+      <workItem from="1775456924357" duration="5925000" />
     </task>
     <task id="LOCAL-00001" summary="Add HTML to CSS Exercises case 03">
       <option name="closed" value="true" />
@@ -176,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775397697533</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add videos instead images">
+      <option name="closed" value="true" />
+      <created>1775474006810</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1775474006810</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +202,7 @@
     <MESSAGE value="Add Changes to CSS Exercises 1" />
     <MESSAGE value="Add responsive CSS Exercises on tablet" />
     <MESSAGE value="Add responsive CSS Exercises 1 on mobile" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add responsive CSS Exercises 1 on mobile" />
+    <MESSAGE value="Add videos instead images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add videos instead images" />
   </component>
 </project>
