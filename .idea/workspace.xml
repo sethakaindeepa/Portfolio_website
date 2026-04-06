@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55cbf72e-bc1d-4b93-b877-160323f4ba3b" name="Changes" comment="Add CSS Exercises 2 case 03" />
+    <list default="true" id="55cbf72e-bc1d-4b93-b877-160323f4ba3b" name="Changes" comment="Add CSS Exercises 2 case 03">
+      <change beforePath="$PROJECT_DIR$/exercises2.html" beforeDir="false" afterPath="$PROJECT_DIR$/exercises2.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +108,7 @@
       <workItem from="1775111978103" duration="9000" />
       <workItem from="1775285916692" duration="4581000" />
       <workItem from="1775370209766" duration="16051000" />
-      <workItem from="1775456924357" duration="6648000" />
+      <workItem from="1775456924357" duration="6992000" />
     </task>
     <task id="LOCAL-00001" summary="Add HTML to CSS Exercises case 03">
       <option name="closed" value="true" />
