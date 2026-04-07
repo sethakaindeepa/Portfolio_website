@@ -804,3 +804,29 @@ nav a:hover{
 .project-layer p{
     font-size: 14px;
 }
+
+@media (max-width: 1024px) {
+
+    .projects{
+        width: 90%;
+    }
+
+    .projects-grid{
+        gap: 20px;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .projects{
+        width: 95%;
+    }
+
+    .projects-grid{
+        grid-template-columns: 1fr;
+    }
+
+    .projects h1{
+        font-size: 32px;
+    }
+}
