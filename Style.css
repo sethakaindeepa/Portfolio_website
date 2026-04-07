@@ -731,3 +731,76 @@ nav a:hover{
         align-self: flex-end;
     }
 }
+
+
+.projects{
+    width: 100%;
+    padding: 60px 8%;
+    background: #202D4F;
+}
+
+.projects h1{
+    text-align: center;
+    font-size: 64px;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.projects h1 span{
+    color: #00A8F1;
+}
+
+.projects-grid{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 30px;
+}
+
+.project-card{
+    position: relative;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.project-card img{
+    width: 100%;
+    height: 230px;
+    object-fit: cover;
+    display: block;
+}
+
+.project-layer{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+          rgba(0,0,0,0.3),
+          rgba(0,168,241,0.9)
+    );
+
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+
+    transform: translateY(100%);
+    transition: 0.4s ease;
+}
+
+.project-card:hover .project-layer{
+    transform: translateY(0);
+}
+
+.project-layer h4{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.project-layer p{
+    font-size: 14px;
+}
