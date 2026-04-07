@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55cbf72e-bc1d-4b93-b877-160323f4ba3b" name="Changes" comment="Add CSS Exercises 2 case 03">
+      <change afterPath="$PROJECT_DIR$/assets/project1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/project2.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/project3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/project4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -111,7 +115,7 @@
       <workItem from="1775370209766" duration="16051000" />
       <workItem from="1775456924357" duration="8530000" />
       <workItem from="1775534451041" duration="1406000" />
-      <workItem from="1775569735159" duration="380000" />
+      <workItem from="1775569735159" duration="1344000" />
     </task>
     <task id="LOCAL-00001" summary="Add HTML to CSS Exercises case 03">
       <option name="closed" value="true" />
