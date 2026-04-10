@@ -938,3 +938,36 @@ button:hover{
         padding: 14px 100px;
     }
 }
+
+@media all and (max-width: 768px) {
+
+    .contact{
+        padding: 60px 0;
+    }
+
+    .contact h1{
+        font-size: 32px;
+    }
+
+    .contact-form{
+        width: 90%;
+    }
+
+    .row{
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .row input{
+        width: 100%;
+    }
+
+    textarea{
+        height: 160px;
+    }
+
+    button{
+        width: 100%;
+        padding: 15px;
+    }
+}
