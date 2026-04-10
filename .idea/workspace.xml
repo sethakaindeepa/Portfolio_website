@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55cbf72e-bc1d-4b93-b877-160323f4ba3b" name="Changes" comment="Add CSS Exercises 2 case 03">
+    <list default="true" id="55cbf72e-bc1d-4b93-b877-160323f4ba3b" name="Changes" comment="Add responsive to projects section">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +110,15 @@
       <workItem from="1775370209766" duration="16051000" />
       <workItem from="1775456924357" duration="8530000" />
       <workItem from="1775534451041" duration="1406000" />
-      <workItem from="1775569735159" duration="6580000" />
+      <workItem from="1775569735159" duration="6873000" />
+      <workItem from="1775580811198" duration="61000" />
+      <workItem from="1775580908632" duration="19000" />
+      <workItem from="1775659974762" duration="1171000" />
+      <workItem from="1775703487785" duration="991000" />
+      <workItem from="1775704825832" duration="1474000" />
+      <workItem from="1775717910582" duration="623000" />
+      <workItem from="1775726417763" duration="853000" />
+      <workItem from="1775727878059" duration="602000" />
     </task>
     <task id="LOCAL-00001" summary="Add HTML to CSS Exercises case 03">
       <option name="closed" value="true" />
@@ -201,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775475976703</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add responsive to projects section">
+      <option name="closed" value="true" />
+      <created>1775580514474</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1775580514474</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,6 +234,7 @@
     <MESSAGE value="Add videos instead images" />
     <MESSAGE value="Add CSS Exercises 2 case 01 and 02" />
     <MESSAGE value="Add CSS Exercises 2 case 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add CSS Exercises 2 case 03" />
+    <MESSAGE value="Add responsive to projects section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add responsive to projects section" />
   </component>
 </project>
