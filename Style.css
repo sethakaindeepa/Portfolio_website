@@ -322,7 +322,7 @@ nav a:hover{
     }
 
     .section-title{
-    font-size: 48px;
+    font-size: 40px;
     margin: 40px 0;
     }
 
@@ -402,7 +402,7 @@ nav a:hover{
     }
 
     .hobbies h1{
-        font-size: 48px;
+        font-size: 40px;
     }
 
     .hobbies-container{
@@ -550,7 +550,7 @@ nav a:hover{
     }
 
     .services h1{
-        font-size: 48px;
+        font-size: 40px;
     }
 
     .tech-stack{
@@ -805,10 +805,14 @@ nav a:hover{
     font-size: 14px;
 }
 
-@media (max-width: 1024px) {
+@media all and (max-width: 1024px) {
 
     .projects{
-        width: 90%;
+        width: 100%;
+    }
+
+    .projects h1{
+        font-size: 40px;
     }
 
     .projects-grid{
@@ -816,7 +820,7 @@ nav a:hover{
     }
 }
 
-@media (max-width: 768px) {
+@media all and (max-width: 768px) {
 
     .projects{
         width: 95%;
@@ -906,4 +910,31 @@ button{
 
 button:hover{
     transform: translateY(-3px);
+}
+
+@media all and (max-width: 1024px) {
+
+    .contact h1{
+        font-size: 40px;
+    }
+
+    .contact-form{
+        width: 90%;
+    }
+
+    .row{
+        gap: 20px;
+    }
+
+    .row input{
+        padding: 16px;
+    }
+
+    textarea{
+        height: 180px;
+    }
+
+    button{
+        padding: 14px 100px;
+    }
 }
