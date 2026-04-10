@@ -823,7 +823,7 @@ nav a:hover{
 @media all and (max-width: 768px) {
 
     .projects{
-        width: 95%;
+        width: 100%;
     }
 
     .projects-grid{
