@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55cbf72e-bc1d-4b93-b877-160323f4ba3b" name="Changes" comment="Add responsive to projects section">
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +19,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -120,7 +122,14 @@
       <workItem from="1775717910582" duration="623000" />
       <workItem from="1775726417763" duration="853000" />
       <workItem from="1775727878059" duration="602000" />
-      <workItem from="1775803464482" duration="7281000" />
+      <workItem from="1775803464482" duration="8467000" />
+      <workItem from="1775832703719" duration="1371000" />
+      <workItem from="1775881556894" duration="440000" />
+      <workItem from="1776000492081" duration="492000" />
+      <workItem from="1776260957621" duration="1207000" />
+      <workItem from="1776313787709" duration="15000" />
+      <workItem from="1776403935303" duration="713000" />
+      <workItem from="1776603399799" duration="6355000" />
     </task>
     <task id="LOCAL-00001" summary="Add HTML to CSS Exercises case 03">
       <option name="closed" value="true" />

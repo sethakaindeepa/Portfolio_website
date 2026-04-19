@@ -16,6 +16,12 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 
+<script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+<script>
+  (function (){
+     emailjs.init("VhEFxfjs7zkVssLZl");
+ })();
+</script>
 
 <body>
 <header class="navbar">
@@ -51,7 +57,7 @@
 
         <div class="buttons">
 
-            <a href="#" class="btn hire">Hire Me!</a>
+            <a href="#contact" class="btn hire">Hire Me!</a>
             <a href="#" class="btn cv">Download CV</a>
         </div>
     </div>
@@ -242,22 +248,26 @@
 <section class="contact" id="contact">
    <h1>Get in <span>Touch</span></h1>
 
-    <form class="contact-form">
+    <form class="contact-form" onsubmit="sendMail(); return false;">
+
         <div class="row">
-            <input type="text" placeholder="Full Name">
-            <input type="email" placeholder="Email Address">
+            <input type="text" id="name" placeholder="Full Name">
+            <input type="email" id="email" placeholder="Email Address">
         </div>
 
         <div class="row">
-            <input type="text" placeholder="Mobile Number">
-            <input type="text" placeholder="Email Subject">
+            <input type="text" id="mobile" placeholder="Mobile Number">
+            <input type="text" id="subject" placeholder="Email Subject">
         </div>
 
-        <textarea placeholder="Your Message"></textarea>
+        <textarea id="message" placeholder="Your Message"></textarea>
 
         <button type="submit">Send Message</button>
     </form>
 
 </section>
+
+
+<script src="script.js"></script>
 </body>
 </html>
