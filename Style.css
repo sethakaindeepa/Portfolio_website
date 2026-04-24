@@ -971,3 +971,58 @@ button:hover{
         padding: 15px;
     }
 }
+
+
+
+.footer{
+    background: #1F1C1C;
+    color: white;
+    padding: 40px 20px;
+}
+
+.footer-container{
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.footer-left h3{
+    margin: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.footer-left p{
+    margin: 5px 0;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.signature {
+    font-family: Island Moments, serif;
+    font-size: 36px;
+    color: #FFFFFF;
+}
+
+
+.footer-right{
+    background: #D9D9D9;
+    padding: 15px 40px;
+    border-radius: 30px;
+    display: flex;
+    gap: 25px;
+}
+
+.footer-right a{
+    color: black;
+    font-size: 28px;
+    transition: 0.3s;
+}
+
+.footer-right a:hover{
+    color: #00A8F1;
+    transform: scale(1.2);
+}
