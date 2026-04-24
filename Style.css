@@ -1026,3 +1026,36 @@ button:hover{
     color: #00A8F1;
     transform: scale(1.2);
 }
+
+@media (max-width: 1024px) {
+
+    .footer-container{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 25px;
+    }
+
+    .footer-left h3{
+        font-size: 15px;
+    }
+
+    .footer-left p{
+        font-size: 15px;
+    }
+
+    .signature{
+        font-size: 22px;
+    }
+
+    .footer-right{
+        padding: 12px 25px;
+        gap: 20px;
+        justify-content: center;
+    }
+
+    .footer-right a i{
+        font-size: 20px;
+    }
+}
+
