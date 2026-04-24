@@ -1,4 +1,6 @@
-
+(function (){
+    emailjs.init("VhEFxfjs7zkVssLZl");
+})();
 
 function sendMail() {
     var params = {
