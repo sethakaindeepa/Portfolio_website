@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55cbf72e-bc1d-4b93-b877-160323f4ba3b" name="Changes" comment="Add JS changes">
+      <change afterPath="$PROJECT_DIR$/assets/CV Document.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,7 +135,7 @@
       <workItem from="1776857362176" duration="602000" />
       <workItem from="1776913258508" duration="252000" />
       <workItem from="1777012945135" duration="10406000" />
-      <workItem from="1777174307578" duration="2738000" />
+      <workItem from="1777174307578" duration="6213000" />
     </task>
     <task id="LOCAL-00001" summary="Add HTML to CSS Exercises case 03">
       <option name="closed" value="true" />
