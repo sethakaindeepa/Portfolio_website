@@ -22,6 +22,18 @@ body{
     padding: 25px 80px;
 }
 
+.menu-toggle{
+    display: none;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+nav{
+    display: flex;
+    gap: 20px;
+}
+
+
 .logo {
     font-size: 70px;
     font-style: italic;
@@ -197,13 +209,32 @@ nav a:hover{
         padding: 15px 20px;
     }
 
+    .menu-toggle{
+        display: block;
+    }
+
+    nav{
+        position: absolute;
+        top: 70px;
+        right: 0;
+        background: #1e234a;
+        width: 50%;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        padding: 20px 0;
+        display: none;
+    }
+
+    nav.active{
+        display: flex;
+    }
+
     .logo{
         font-size: 32px;
     }
 
-    nav{
-        display: none;
-    }
+
 
     .hero{
         padding: 20px;
